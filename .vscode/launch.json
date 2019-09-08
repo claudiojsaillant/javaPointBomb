@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PointMain3",
+            "request": "launch",
+            "mainClass": "PointMain3",
+            "projectName": "javaPointBomb_a02b3cfb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pointMain",
+            "request": "launch",
+            "mainClass": "pointMain",
+            "projectName": "javaPointBomb_a02b3cfb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - claudio",
+            "request": "launch",
+            "mainClass": "claudio",
+            "projectName": "javaPointBomb_a02b3cfb"
+        }
+    ]
+}
